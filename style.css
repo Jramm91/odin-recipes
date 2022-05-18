@@ -1,0 +1,31 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+.title{
+    font-size: 32px;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif. "Times New Roman";
+    font-weight: bold;
+}
+
+.list{
+    font-size: 22px;
+    background-color: rgb(251, 177, 236);
+    
+}
+
+.description{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ing{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.steps{
+    font-size: 24px;
+    font-weight: bold;
+}
